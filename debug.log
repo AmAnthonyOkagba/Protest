@@ -1,7 +1,0 @@
-[0125/072523.697:ERROR:crash_report_database_win.cc(455)] unexpected header
-[0125/072535.792:ERROR:crash_report_database_win.cc(455)] unexpected header
-[0125/073523.723:ERROR:crash_report_database_win.cc(455)] unexpected header
-[0125/073523.736:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\CapableBohz\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\99be3870-ad9f-4200-a1b9-2a6b265edea7: The system cannot find the path specified. (0x3)
-[0125/073523.738:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
-[0125/073523.738:ERROR:crash_report_database_win.cc(455)] unexpected header
-[0125/073523.739:ERROR:crash_report_database_win.cc(455)] unexpected header
